@@ -1,0 +1,23 @@
+AI HEALTHSAATHI - BASIC HEALTH INFORMATION
+
+IMPORTANT:
+This information is for general educational purposes.
+It is not a diagnosis or a substitute for a qualified healthcare professional.
+
+FEVER:
+Fever can occur with infections and other conditions. General supportive measures may include adequate fluids and rest. Seek professional medical care when fever is severe, persistent, or associated with serious symptoms.
+
+COMMON COLD:
+Common cold symptoms can include runny nose, sneezing, cough and sore throat. Rest and adequate fluids can help with general comfort. Seek medical advice if symptoms are severe or persistent.
+
+HEADACHE:
+Headaches can have many causes. Rest, hydration and avoiding known triggers may help some people. Severe, sudden or unusual headaches require professional medical evaluation.
+
+COUGH:
+Cough can occur because of infections, allergies or other causes. The appropriate treatment depends on the underlying cause. Persistent or severe cough should be evaluated by a healthcare professional.
+
+SAFETY:
+AI HealthSaathi must not diagnose a patient.
+AI HealthSaathi must not independently prescribe medicines.
+AI HealthSaathi must not change a doctor's dosage or prescription.
+If a medicine name, dose or prescription instruction is unclear, the system must say that it cannot reliably identify the information and recommend checking with a doctor or pharmacist.
